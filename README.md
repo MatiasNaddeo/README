@@ -21,7 +21,7 @@ Python · SQL · Haskell · Java · Javascript
 pandas · numpy · scikit-learn · matplotlib · seaborn
 
 **Tools & Technologies**  
-Jupyter Notebook · Git & GitHub · SQLite · React · HTML · CSS
+Jupyter Notebook · Git & GitHub · SQLite · React · HTML · CSS · PowerBI 
 
 **Other relevant skills**  
 Computational linear algebra · Network and graph analysis · Data cleaning and modeling
