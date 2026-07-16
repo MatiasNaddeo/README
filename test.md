@@ -113,7 +113,7 @@ I work at the intersection of applied mathematics and data science, focusing on 
     </td>
   </tr>
 </table>
-<img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-data-science-web-development-flatart-icons-flat-flatarticons.png" height="42" title="Data Science"/>
+
 ---
 
 ### 📚 Currently Learning
